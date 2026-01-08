@@ -5,4 +5,5 @@ echo 3;
 echo "feachture-a";
 echo "feachture-b";
 echo 4;
+echo "git revert";
 
